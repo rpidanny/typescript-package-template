@@ -3,7 +3,7 @@
     "resolveJsonModule": true,
     "allowJs": false,
     "removeComments": true,
-    "isolatedModules": false,
+    "isolatedModules": true,
     "declaration": true,
     // "target": "ES2019",
     // "sourceMap": true,
