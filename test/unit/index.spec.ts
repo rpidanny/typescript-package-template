@@ -1,5 +1,8 @@
+import echo from '../../src/index'
+
 describe('Test', () => {
   it('should pass', () => {
-    expect(1).toBe(1)
+    const message = 'hello'
+    expect(echo(message)).toBe(message)
   })
 })

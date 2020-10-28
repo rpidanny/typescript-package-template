@@ -1,5 +1,5 @@
-const printHelloWorld = (): void => {
-  console.log('Hello world')
+const echo = (msg: string): string => {
+  return msg
 }
 
-export default printHelloWorld
+export default echo
