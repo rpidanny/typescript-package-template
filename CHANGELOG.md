@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/rpidanny/typescript-package-template/compare/v1.0.0...v1.0.1) (2020-10-28)
+
+
+### Bug Fixes
+
+* semantic release issues ([#5](https://github.com/rpidanny/typescript-package-template/issues/5)) ([cda63e5](https://github.com/rpidanny/typescript-package-template/commit/cda63e5dcfd3abb593485bb3e5e800926d6e3219))
+
 # 1.0.0 (2020-10-28)
 
 
