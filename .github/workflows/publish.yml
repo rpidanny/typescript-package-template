@@ -1,4 +1,4 @@
-name: Node.js Package Lint, Test and Publish
+name: Release
 
 on:
   push:
@@ -6,7 +6,8 @@ on:
       - 'main'
 
 jobs:
-  lint-test-build-and-publish:
+  release:
+    name: Release
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
