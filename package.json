@@ -1,5 +1,5 @@
 {
-  "name": "typescript-package-template",
+  "name": "@rpidanny/typescript-package-template",
   "version": "1.0.0",
   "description": "Typescript package boilerplate template",
   "main": "dist/index.js",
