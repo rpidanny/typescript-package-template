@@ -3,7 +3,7 @@ name: Node.js Package Lint, Test and Publish
 on:
   push:
     branches:
-      - 'master'
+      - 'main'
 
 jobs:
   lint-test-build-and-publish:
