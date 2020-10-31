@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/rpidanny/typescript-package-template/compare/v1.0.2...v1.1.0) (2020-10-31)
+
+
+### Features
+
+* add codecov integration ([#9](https://github.com/rpidanny/typescript-package-template/issues/9)) ([4616955](https://github.com/rpidanny/typescript-package-template/commit/46169557025868e80335f63d94ae5bd43c77641d))
+
 ## [1.0.2](https://github.com/rpidanny/typescript-package-template/compare/v1.0.1...v1.0.2) (2020-10-30)
 
 
