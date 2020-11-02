@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/rpidanny/typescript-package-template/compare/v1.1.0...v1.1.1) (2020-11-02)
+
+
+### Bug Fixes
+
+* gh actions badge ([#11](https://github.com/rpidanny/typescript-package-template/issues/11)) ([7524560](https://github.com/rpidanny/typescript-package-template/commit/752456043d0f729fb5481e22334c8c42242a6146))
+
 # [1.1.0](https://github.com/rpidanny/typescript-package-template/compare/v1.0.2...v1.1.0) (2020-10-31)
 
 
