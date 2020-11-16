@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/rpidanny/typescript-package-template/compare/v1.1.1...v1.2.0) (2020-11-16)
+
+
+### Features
+
+* use central eslint config ([#22](https://github.com/rpidanny/typescript-package-template/issues/22)) ([4cc2b0c](https://github.com/rpidanny/typescript-package-template/commit/4cc2b0caf99195601abfc40e81df9be40c5b926f))
+
 ## [1.1.1](https://github.com/rpidanny/typescript-package-template/compare/v1.1.0...v1.1.1) (2020-11-02)
 
 
