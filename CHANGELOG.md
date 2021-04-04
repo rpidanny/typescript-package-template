@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/rpidanny/typescript-package-template/compare/v1.2.0...v1.2.1) (2021-04-04)
+
+
+### Bug Fixes
+
+* vulnerable packages ([#90](https://github.com/rpidanny/typescript-package-template/issues/90)) ([fd5ace5](https://github.com/rpidanny/typescript-package-template/commit/fd5ace5db42fdab6f1fdd3dfa781a2ee47a9497c))
+
 # [1.2.0](https://github.com/rpidanny/typescript-package-template/compare/v1.1.1...v1.2.0) (2020-11-16)
 
 
