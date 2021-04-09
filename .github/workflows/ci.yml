@@ -33,27 +33,3 @@ jobs:
       - run: curl -s https://codecov.io/bash | bash
         env:
           CODECOV_TOKEN: ${{secrets.CODECOV_TOKEN}}
-
-  automerge:
-    name: Auto Merge
-    runs-on: ubuntu-latest
-    needs: [build-and-test]
-    if: github.actor == 'dependabot[bot]'
-    steps:
-      - name: automerge
-        uses: actions/github-script@v3
-        with:
-          github-token: ${{secrets.GITHUB_TOKEN}}
-          script: |
-            github.pulls.createReview({
-              owner: context.payload.repository.owner.login,
-              repo: context.payload.repository.name,
-              pull_number: context.payload.pull_request.number,
-              event: 'APPROVE'
-            })
-            github.pulls.merge({
-              owner: context.payload.repository.owner.login,
-              repo: context.payload.repository.name,
-              pull_number: context.payload.pull_request.number,
-              merge_method: 'squash'
-            })
