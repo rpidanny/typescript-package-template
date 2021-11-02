@@ -54,7 +54,7 @@
     "jest": "^26.2.2",
     "lint-staged": "^11.0.0",
     "prettier": "^2.0.5",
-    "semantic-release": "^17.2.1",
+    "semantic-release": "^18.0.0",
     "ts-jest": "^26.1.4",
     "ts-node": "^9.0.0",
     "tsc": "^2.0.3",
