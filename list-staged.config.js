@@ -1,0 +1,3 @@
+module.exports = {
+  'src/**/*.{ts,js,json,md,html,css,scss}': ['npm run lint'],
+}
