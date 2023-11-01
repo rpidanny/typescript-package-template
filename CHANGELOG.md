@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/rpidanny/typescript-package-template/compare/v1.2.1...v1.3.0) (2023-11-01)
+
+
+### Features
+
+* update package versions ([#159](https://github.com/rpidanny/typescript-package-template/issues/159)) ([3f36c9b](https://github.com/rpidanny/typescript-package-template/commit/3f36c9b45ac1cac1889680dc23feecc1d0ddb2d6))
+
 ## [1.2.1](https://github.com/rpidanny/typescript-package-template/compare/v1.2.0...v1.2.1) (2021-04-04)
 
 
