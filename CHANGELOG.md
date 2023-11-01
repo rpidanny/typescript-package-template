@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/rpidanny/typescript-package-template/compare/v1.3.0...v1.4.0) (2023-11-01)
+
+
+### Features
+
+* update eslint prettier typescript ([#160](https://github.com/rpidanny/typescript-package-template/issues/160)) ([e6ce05a](https://github.com/rpidanny/typescript-package-template/commit/e6ce05a442c6e17a7a45fedd0f3ba6c9bb533f34))
+
 # [1.3.0](https://github.com/rpidanny/typescript-package-template/compare/v1.2.1...v1.3.0) (2023-11-01)
 
 
