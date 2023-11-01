@@ -37,7 +37,6 @@
     "forceConsistentCasingInFileNames": true,
 
     "preserveConstEnums": true,
-    "suppressImplicitAnyIndexErrors": true,
     "incremental": true
   },
   "include": ["src"],
