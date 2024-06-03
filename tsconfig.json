@@ -26,9 +26,10 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
 
-    "moduleResolution": "node",
+    "module": "NodeNext",
+    "moduleResolution": "Node",
     "esModuleInterop": true,
-    "module": "commonjs",
+    "target": "ES2022",
 
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
@@ -46,5 +47,9 @@
     "./node_modules/*",
     "./node_modules/@types/node/index.d.ts",
     "coverage"
-  ]
+  ],
+  "ts-node": {
+    "esm": true,
+    "transpileOnly": true
+  }
 }
