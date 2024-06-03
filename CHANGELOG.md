@@ -1,3 +1,16 @@
+# [1.5.0](https://github.com/rpidanny/typescript-package-template/compare/v1.4.0...v1.5.0) (2024-06-03)
+
+
+### Bug Fixes
+
+* linit ([b9041c2](https://github.com/rpidanny/typescript-package-template/commit/b9041c2605a86f6567de0bf9f0ffc3b95748c920))
+* tsconfig ([3a19e72](https://github.com/rpidanny/typescript-package-template/commit/3a19e723d6fedef1d355cf391db230b11f42b4f7))
+
+
+### Features
+
+* update tsconfig and jest configs ([13be3fc](https://github.com/rpidanny/typescript-package-template/commit/13be3fccc3b21a8076a2c81481cfdfb833ac478a))
+
 # [1.4.0](https://github.com/rpidanny/typescript-package-template/compare/v1.3.0...v1.4.0) (2023-11-01)
 
 
