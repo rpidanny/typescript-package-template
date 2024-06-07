@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/rpidanny/typescript-package-template/compare/v1.5.0...v1.5.1) (2024-06-07)
+
+
+### Bug Fixes
+
+* esm imports ([acd40eb](https://github.com/rpidanny/typescript-package-template/commit/acd40ebbdf3acc794c3092aca875a1c2b22fbb3e))
+
 # [1.5.0](https://github.com/rpidanny/typescript-package-template/compare/v1.4.0...v1.5.0) (2024-06-03)
 
 
