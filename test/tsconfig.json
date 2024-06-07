@@ -1,7 +1,0 @@
-{
-  "extends": "../tsconfig.spec.json",
-  "compilerOptions": {
-    "noEmit": true
-  },
-  "references": [{ "path": ".." }]
-}

@@ -15,7 +15,7 @@ const config: JestConfigWithTsJest = {
       'ts-jest',
       {
         useESM: true,
-        tsconfig: '<rootDir>/test/tsconfig.json',
+        tsconfig: 'tsconfig.json',
       },
     ],
   },
