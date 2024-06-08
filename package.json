@@ -11,6 +11,7 @@
     "lint:fix": "npm run lint -- --fix",
     "test": "NODE_OPTIONS=--experimental-vm-modules jest --coverage",
     "dev": "ts-node src/index.ts",
+    "prepare": "husky install",
     "semantic-release": "semantic-release"
   },
   "repository": {
