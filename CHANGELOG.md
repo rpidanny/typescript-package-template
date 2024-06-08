@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/rpidanny/typescript-package-template/compare/v1.5.1...v1.6.0) (2024-06-08)
+
+
+### Features
+
+* update build configs ([8de9cab](https://github.com/rpidanny/typescript-package-template/commit/8de9cabbce249a3703a88456dfff9626b8601e5f))
+
 ## [1.5.1](https://github.com/rpidanny/typescript-package-template/compare/v1.5.0...v1.5.1) (2024-06-07)
 
 
